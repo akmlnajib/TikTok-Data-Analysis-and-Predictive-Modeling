@@ -38,15 +38,3 @@ Proyek ini bertujuan untuk menganalisis data TikTok, melakukan rekayasa fitur, d
 
 5. **Ringkasan Eksekutif**  
    - Rangkuman hasil analisis dan rekomendasi untuk pemangku kepentingan.  
-
-## Cara Menjalankan Proyek  
-1. Clone repositori ini:  
-   ```bash
-   git clone https://github.com/username/tiktok-data-analysis.git
-   cd tiktok-data-analysis
-   ```
-2. Install dependensi:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Jalankan notebook di Jupyter untuk analisis dan pembuatan model.  
